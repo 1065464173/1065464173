@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sxuet , a hard-working female programmer
-- 👀 I’m interested in games , skateboard & anything interesting 
+- 👀 I’m interested in listening to music, skateboarding & anything interesting 
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking for collaborating on programs which can exercises me
 - 🌐 Find me on my personal website：[sxuet.top](https://sxuet.top)
