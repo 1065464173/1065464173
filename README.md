@@ -1,6 +1,7 @@
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1065464173&show_icons=true&show_icons=true&theme=graywhite" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=1065464173&show_icons=true&show_icons=true&theme=graywhite" />
 </p>
+
 
 <p align="center">- 👋 Hi, I’m @Sxuet , a hard-working female programmer</p>
 <p align="center">- 👀 I’m interested in listening to music, skateboarding & anything interesting </p>
