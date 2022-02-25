@@ -3,18 +3,16 @@
 </p>
 
 
-<p align="center">
-  
 
+  
+<div align="center">
 - 👋 Hi, I’m @Sxuet , a hard-working female programmer
 - 👀 I’m interested in listening to music, skateboarding & anything interesting 
 - 🌱 I’m currently learning java </p>
 - 💞️ I’m looking for collaborating on programs which can exercises me
 - 🌐 Find me on my personal website：[sxuet.top](https://sxuet.top)
 - 📫 How to reach me : sxuet0522@foxmail.com
-
-
-</p>
+</div>
 
 <!---
 1065464173/1065464173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
