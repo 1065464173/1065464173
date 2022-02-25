@@ -4,12 +4,16 @@
 
 
 <p align="center">
+  
+```
 - 👋 Hi, I’m @Sxuet , a hard-working female programmer
 - 👀 I’m interested in listening to music, skateboarding & anything interesting 
 - 🌱 I’m currently learning java </p>
 - 💞️ I’m looking for collaborating on programs which can exercises me
 - 🌐 Find me on my personal website：[sxuet.top](https://sxuet.top)
 - 📫 How to reach me : sxuet0522@foxmail.com
+```
+
 </p>
 
 <!---
