@@ -5,7 +5,7 @@
 
 
   
-<div align="center">
+<p align="center">
  
 - 👋 Hi, I’m @Sxuet , a hard-working female programmer</br>
 - 👀 I’m interested in listening to music, skateboarding & anything interesting </br>
@@ -14,7 +14,7 @@
 - 🌐 Find me on my personal website：[sxuet.top](https://sxuet.top)</br>
 - 📫 How to reach me : sxuet0522@foxmail.com</br>
 
-</div>
+</p>
 
 <!---
 1065464173/1065464173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
