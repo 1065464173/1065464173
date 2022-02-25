@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1065464173&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=1065464173&show_icons=true&show_icons=true&theme=graywhite" />
 </p>
 
 <p align="center">- 👋 Hi, I’m @Sxuet , a hard-working female programmer</p>
