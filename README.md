@@ -11,7 +11,7 @@
 - 👀 I’m interested in listening to music, skateboarding & anything interesting </br>
 - 🌱 I’m currently learning java </br>
 - 💞️ I’m looking for collaborating on programs which can exercises me</br>
-- 🌐 Find me on my personal website：[sxuet.top](https://sxuet.top)</br>
+- 🌐 Find me on my personal website：[sxuet.top](https://sxuet.top) </br>
 - 📫 How to reach me : sxuet0522@foxmail.com</br>
 </div>
 </div>
