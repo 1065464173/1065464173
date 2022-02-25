@@ -5,16 +5,16 @@
 
 
   
-<p align="center">
- 
+<div align="center">
+ <div>
 - 👋 Hi, I’m @Sxuet , a hard-working female programmer</br>
 - 👀 I’m interested in listening to music, skateboarding & anything interesting </br>
 - 🌱 I’m currently learning java </br>
 - 💞️ I’m looking for collaborating on programs which can exercises me</br>
 - 🌐 Find me on my personal website：[sxuet.top](https://sxuet.top)</br>
 - 📫 How to reach me : sxuet0522@foxmail.com</br>
-
-</p>
+</div>
+</div>
 
 <!---
 1065464173/1065464173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
