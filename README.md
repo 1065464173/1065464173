@@ -4,8 +4,8 @@
   readme-stats：https://github.com/anuraghazra/github-readme-stats
 -->
 # Hey There! :wave: I'm Sxuet :sunglasses:
-![](https://komarev.com/ghpvc/?username=1065464173&color=ff69b4)
-![](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai?color=2E67D3)
+![time](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai?color=2E67D3)
+![views](https://komarev.com/ghpvc/?username=1065464173&color=ff69b4)
 
 ## :pouting_woman:  About Me
 
