@@ -5,6 +5,7 @@
 -->
 # Hey There! :wave: I'm Sxuet :sunglasses:
 ![](https://komarev.com/ghpvc/?username=1065464173&color=ff69b4)
+![](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai?color=2E67D3)
 
 ## :pouting_woman:  About Me
 
