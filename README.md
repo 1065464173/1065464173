@@ -26,7 +26,7 @@ My name is **Shi Xueting**, I'm 22 years old and I'm a student of *Computer Scie
 * :star2: Learn new skills
 
 ## :trophy: Github stars
-<div align="center">
+<div> <!-- align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=1065464173&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1065464173&layout=compact" />
 </div>
