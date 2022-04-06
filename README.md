@@ -2,8 +2,10 @@
   emoji：https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md 
   profile：https://github.com/antonkomarev/github-profile-views-counter
   readme-stats：https://github.com/anuraghazra/github-readme-stats
+  badge：https://badgen.net
 -->
 # Hey There! :wave: I'm Sxuet :sunglasses:
+
 ![time](https://badgen.net/https/cal-badge-icd0onfvrxx6.runkit.sh/Asia/Shanghai?color=2E67D3)
 ![views](https://komarev.com/ghpvc/?username=1065464173&color=ff69b4)
 
@@ -15,7 +17,6 @@ My name is **Shi Xueting**, I'm 22 years old and I'm a student of *Computer Scie
 *  :rocket: I'm also learning TypeScript Vue and so.
 *  :tada: My current goals: `Obtain talent certificate` & `while(sleeping){money++;}`
 *  :beers: Looking for collaborating on programs which can exercises me
-*  :full_moon_with_face: I’m interested in listening to music, skateboarding & anything interesting
 
 ## :rainbow: Hobbies
 
