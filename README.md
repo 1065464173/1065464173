@@ -21,8 +21,8 @@ My name is **Shi Xueting**, I'm 22 years old and I'm a student of *Computer Scie
 ## :rainbow: Hobbies
 
 * :night_with_stars: Photography
-* :skateboard: skateboarding
-* :guitar: pop music & Rock 'n' roll
+* :skateboard: Skateboarding
+* :guitar: Pop music & Rock 'n' roll
 * :book: Light Reading 
 * :shaved_ice: Ice cream & watermelon :tongue:
 * :star2: Learn new skills
