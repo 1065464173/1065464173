@@ -30,7 +30,9 @@ My name is **Shi Xueting**, I'm 22 years old and I'm a student of *Computer Scie
 *  :muscle: I'm mainly working on Web develop and Java develop
 *  :rocket: I'm also learning TypeScript Vue and so.
 *  :tada: My current goals: `Obtain talent certificate` & `while(sleeping){money++;}`
+*  :heart_eyes: Super obsessed with high-tech products
 *  :beers: Looking for collaborating on programs which can exercises me
+
 
 ## :rainbow: Hobbies
 
@@ -38,7 +40,7 @@ My name is **Shi Xueting**, I'm 22 years old and I'm a student of *Computer Scie
 * :skateboard: Skateboarding
 * :guitar: Pop music & Rock 'n' roll
 * :book: Light Reading 
-* :shaved_ice: Ice cream & watermelon :tongue:
+* :shaved_ice: Sweets & watermelon :tongue:
 * :star2: Learn new skills
 
 ## :trophy: Github stars
