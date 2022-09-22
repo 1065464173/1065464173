@@ -25,7 +25,7 @@
 
 ## :pouting_woman:  About Me
 
-My name is **Shi Xueting**, I'm 22 years old and I'm a student of *Computer Science* at *Zhejiang Chinese Medicine University* (**ZCMU**) in China :cn:.
+My name is **Shi Xueting**, I'm a bunny borned in 1999 and graduated from *Computer Science* at *Zhejiang Chinese Medicine University* (**ZCMU**) in China :cn:.
 
 *  :muscle: I'm mainly working on Web develop and Java develop
 *  :rocket: I'm also learning TypeScript Vue and so.
