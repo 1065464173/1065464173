@@ -27,8 +27,8 @@
 
 My name is **Shi Xueting**, I'm a bunny borned in 1999 and graduated from *Computer Science* at *Zhejiang Chinese Medicine University* (**ZCMU**) in China :cn:.
 
-*  :muscle: I'm mainly working on Web develop and Java develop
-*  :rocket: I'm also learning TypeScript Vue and so.
+*  :muscle: I'm mainly working on the new energy track & hoping to get into the web3 track.
+*  :rocket: I'm also learning JavaWeb TypeScript Vue and so.
 *  :tada: My current goals: `Obtain talent certificate` & `while(sleeping){money++;}`
 *  :heart_eyes: Super obsessed with high-tech products
 *  :beers: Looking for collaborating on programs which can exercises me
